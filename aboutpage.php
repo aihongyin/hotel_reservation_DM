@@ -19,7 +19,6 @@ if (!$_SESSION) {
 
     <body>
         
-        <!-- Brendan is Evil and He Killed Us All Please Help-->
         <div>
              <b>
                 <p>
